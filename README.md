@@ -1,2 +1,2 @@
-# reimagined-spork
+# Yasinsuzer
 Apple tv için oluşturulmuş repo
